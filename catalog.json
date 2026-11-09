@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "source_checked_on": "2026-11-09",
+  "reports": [
+    {
+      "id": "1688-best-selling-2026-10",
+      "title": "1688 Best-Selling Products",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-04",
+      "ranking_basis": "Reported orders",
+      "brief_path": "reports/1688/2026-10-best-selling-products.md",
+      "report_url": "https://www.nexscope.ai/reports/1688/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_1688-best-selling-2026-10",
+      "platform_id": "1688",
+      "region": null,
+      "report_type": "best-selling-products",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published"
+    },
+    {
+      "id": "tiktok-best-selling-us-2026-10",
+      "title": "TikTok Shop Best-Selling Products",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-04",
+      "ranking_basis": "Reported units sold",
+      "brief_path": "reports/tiktok/2026-10-us-best-selling-products.md",
+      "report_url": "https://www.nexscope.ai/reports/tiktok/best-selling-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_tiktok-best-selling-us-2026-10",
+      "platform_id": "tiktok",
+      "region": "US",
+      "report_type": "best-selling-products",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published"
+    },
+    {
+      "id": "tiktok-trending-us-2026-10",
+      "title": "TikTok Shop Trending Products",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-04",
+      "ranking_basis": "Source trend signal",
+      "brief_path": "reports/tiktok/2026-10-us-trending-products.md",
+      "report_url": "https://www.nexscope.ai/reports/tiktok/trending-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_tiktok-trending-us-2026-10",
+      "platform_id": "tiktok",
+      "region": "US",
+      "report_type": "trending-products",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published"
+    },
+    {
+      "id": "tiktok-creators-us-2026-11-04",
+      "title": "TikTok Shop Top Selling Creators",
+      "reporting_period": "30-day snapshot dated November 4, 2026",
+      "published_on": "2026-11-04",
+      "ranking_basis": "Reported GMV in the source rolling window",
+      "brief_path": "reports/tiktok/2026-11-04-us-top-selling-creators.md",
+      "report_url": "https://www.nexscope.ai/reports/tiktok/top-selling-creators/us/2026-11-04?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_tiktok-creators-us-2026-11-04",
+      "platform_id": "tiktok",
+      "region": "US",
+      "report_type": "top-selling-creators",
+      "period_type": "rolling_30_day_snapshot",
+      "edition": "2026-11-04",
+      "language": "en",
+      "status": "published"
+    }
+  ],
+  "platforms": [
+    {
+      "id": "1688",
+      "name": "1688",
+      "status": "available",
+      "index_path": "reports/1688/README.md"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok Shop",
+      "status": "available",
+      "index_path": "reports/tiktok/README.md"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "status": "coming_soon"
+    },
+    {
+      "id": "shopee",
+      "name": "Shopee",
+      "status": "coming_soon"
+    },
+    {
+      "id": "ozon",
+      "name": "Ozon",
+      "status": "coming_soon"
+    },
+    {
+      "id": "temu",
+      "name": "Temu",
+      "status": "coming_soon"
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "status": "coming_soon"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "status": "coming_soon"
+    },
+    {
+      "id": "etsy",
+      "name": "Etsy",
+      "status": "coming_soon"
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "status": "coming_soon"
+    },
+    {
+      "id": "woocommerce",
+      "name": "WooCommerce",
+      "status": "coming_soon"
+    },
+    {
+      "id": "mercado-libre",
+      "name": "Mercado Libre",
+      "status": "coming_soon"
+    }
+  ]
+}
