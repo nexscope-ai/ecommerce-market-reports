@@ -2,7 +2,7 @@
 
 ## What this repository contains
 
-This repository contains reading guides and a metadata catalog for a growing collection of Nexscope ecommerce reports. Its initial collection contains four editions published on November 4, 2026. It does not contain a live data feed, raw API responses, or a bundled product dataset. Each brief links to its published source.
+This repository contains reading guides and a metadata catalog for a growing collection of Nexscope ecommerce reports. The catalog contains 14 published editions across marketplace and social research. It does not contain a live data feed, raw API responses, or a bundled product dataset. Each brief links to its published source.
 
 ## Compare like with like
 
@@ -23,7 +23,7 @@ This repository contains reading guides and a metadata catalog for a growing col
 
 ## Edition handling
 
-Each catalog entry identifies a dated edition and its publication date. The source pages were checked on November 9, 2026. This date records the editorial check; it does not mean the underlying data was refreshed that day.
+Each catalog entry identifies a dated edition and its publication date. The source pages were checked on November 25, 2026. This date records the editorial check; it does not mean the underlying data was refreshed that day.
 
 Corrections should identify the affected edition and evidence. New reporting periods should receive separate entries so historical context remains visible. There is no guaranteed release schedule.
 
@@ -42,3 +42,14 @@ Monthly editions use `YYYY-MM`; dated snapshots use `YYYY-MM-DD`. Annual edition
 ## From API data to a report
 
 Nexscope reports use saved results from the source APIs linked in the README and individual reports. The report identifies the ranking measure and reporting period; analysis summarizes the returned sample. Later product-detail lookups remain distinct from the dated ranking. Subsequent API responses are new research, not automatic revisions to the published edition.
+
+## Additional report families
+
+- Amazon sales rankings use estimated monthly units; source growth rankings have an unverified growth baseline and formula.
+- Shopee keeps 72 eligible best sellers and 79 new listings in separate November 9 snapshots; record windows differ and samples can overlap.
+- Ozon uses source-reported October units in RUB-priced listings; Etsy uses a dated snapshot of estimated weekly sales for active Bestseller-tagged listings.
+- The 1688 beauty report is a keyword selection, not a category-wide census.
+- Social rankings use follower counts within curated candidate sets. Sampled engagement does not establish audience fit or sales performance. Missing values are not zero.
+- The general Instagram and TikTok rankings include individual creators and celebrities while excluding organizations. Pet rankings and TikTok Shop sales rankings have their own account scopes.
+
+`report_family` separates marketplace research from social research. The existing `tiktok` platform ID is preserved; use `report_family` and `report_type` to distinguish TikTok Shop sales from TikTok follower rankings. Snapshot editions use the collection date, which can differ from both the URL edition and the publication date. Full rankings or CSV exports may require sign-in on the source website.

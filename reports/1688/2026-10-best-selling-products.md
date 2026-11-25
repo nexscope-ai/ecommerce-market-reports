@@ -1,7 +1,7 @@
 # 1688 Best-Selling Products
 
 **1688 · October 2026**  
-Published: November 4, 2026 · Publisher: Nexscope
+Published: November 2, 2026 · Publisher: Nexscope
 
 Which products and wholesale price bands deserve a closer sourcing review?
 

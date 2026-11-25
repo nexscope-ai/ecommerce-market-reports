@@ -1,13 +1,10 @@
-# TikTok Shop Reports
+# TikTok Shop & TikTok reports
 
-Published TikTok Shop research briefs, organized by report type and dated edition.
-
-| Report | Region / scope | Edition | Ranking basis |
+| Report | Scope | Period | Published |
 | --- | --- | --- | --- |
-| [TikTok Shop Best-Selling Products](2026-10-us-best-selling-products.md) | United States | October 2026 | Reported units sold |
-| [TikTok Shop Trending Products](2026-10-us-trending-products.md) | United States | October 2026 | Source trend signal |
-| [TikTok Shop Top Selling Creators](2026-11-04-us-top-selling-creators.md) | United States | 30-day snapshot dated November 4, 2026 | Reported GMV in the source rolling window |
+| [Top 100 TikTok Influencers](../../reports/tiktok/influencers-2026-11-18.md) | Global | November 18, 2026 snapshot | 2026-11-18 |
+| [TikTok Shop Best-Selling Products](../../reports/tiktok/2026-10-us-best-selling-products.md) | US | October 2026 | 2026-11-04 |
+| [TikTok Shop Trending Products](../../reports/tiktok/2026-10-us-trending-products.md) | US | October 2026 | 2026-11-04 |
+| [TikTok Shop Top Selling Creators](../../reports/tiktok/2026-11-04-us-top-selling-creators.md) | US | 30-day snapshot dated November 4, 2026 | 2026-11-04 |
 
-Each brief links to the complete published report. Historical editions remain available when new editions are added.
-
-[All reports](../README.md) · [Repository home](../../README.md)
+[All reports](../README.md) · [Library home](../../README.md)

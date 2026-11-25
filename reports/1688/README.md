@@ -1,11 +1,8 @@
-# 1688 Reports
+# 1688 reports
 
-Published 1688 research briefs, organized by report type and dated edition.
-
-| Report | Region / scope | Edition | Ranking basis |
+| Report | Scope | Period | Published |
 | --- | --- | --- | --- |
-| [1688 Best-Selling Products](2026-10-best-selling-products.md) | 1688 sourcing | October 2026 | Reported orders |
+| [1688 Best-Selling Beauty Products](../../reports/1688/best-selling-beauty-products-2026-10.md) | 1688 | October 2026 | 2026-11-17 |
+| [1688 Best-Selling Products](../../reports/1688/2026-10-best-selling-products.md) | 1688 | October 2026 | 2026-11-02 |
 
-Each brief links to the complete published report. Historical editions remain available when new editions are added.
-
-[All reports](../README.md) · [Repository home](../../README.md)
+[All reports](../README.md) · [Library home](../../README.md)

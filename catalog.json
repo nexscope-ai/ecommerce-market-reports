@@ -1,22 +1,176 @@
 {
   "schema_version": 1,
-  "source_checked_on": "2026-11-09",
+  "source_checked_on": "2026-11-25",
   "reports": [
     {
-      "id": "1688-best-selling-2026-10",
-      "title": "1688 Best-Selling Products",
+      "id": "amazon-top-selling-items-de-2026-10",
+      "title": "Amazon Top Selling Items — Germany",
       "reporting_period": "October 2026",
-      "published_on": "2026-11-04",
-      "ranking_basis": "Reported orders",
-      "brief_path": "reports/1688/2026-10-best-selling-products.md",
-      "report_url": "https://www.nexscope.ai/reports/1688/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_1688-best-selling-2026-10",
+      "published_on": "2026-11-24",
+      "ranking_basis": "Estimated monthly units",
+      "brief_path": "reports/amazon/top-selling-items-de-2026-10.md",
+      "report_url": "https://www.nexscope.ai/reports/amazon/top-selling-items/de/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_amazon-top-selling-items-de-2026-10",
+      "platform_id": "amazon",
+      "region": "DE",
+      "report_type": "top-selling-items",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "instagram-influencers-2026-11-18",
+      "title": "Top 100 Instagram Influencers",
+      "reporting_period": "November 18, 2026 snapshot",
+      "published_on": "2026-11-18",
+      "ranking_basis": "Follower count among verified individual accounts",
+      "brief_path": "reports/instagram/influencers-2026-11-18.md",
+      "report_url": "https://www.nexscope.ai/reports/instagram/influencers/2026-11-18?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_instagram-influencers-2026-11-18",
+      "platform_id": "instagram",
+      "region": "Global",
+      "report_type": "influencers",
+      "period_type": "snapshot",
+      "edition": "2026-11-18",
+      "language": "en",
+      "status": "published",
+      "report_family": "social"
+    },
+    {
+      "id": "tiktok-influencers-2026-11-18",
+      "title": "Top 100 TikTok Influencers",
+      "reporting_period": "November 18, 2026 snapshot",
+      "published_on": "2026-11-18",
+      "ranking_basis": "Follower count among verified individual accounts",
+      "brief_path": "reports/tiktok/influencers-2026-11-18.md",
+      "report_url": "https://www.nexscope.ai/reports/tiktok/influencers/2026-11-18?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_tiktok-influencers-2026-11-18",
+      "platform_id": "tiktok",
+      "region": "Global",
+      "report_type": "influencers",
+      "period_type": "snapshot",
+      "edition": "2026-11-18",
+      "language": "en",
+      "status": "published",
+      "report_family": "social"
+    },
+    {
+      "id": "1688-best-selling-beauty-products-2026-10",
+      "title": "1688 Best-Selling Beauty Products",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-17",
+      "ranking_basis": "Reported orders within the beauty keyword result set",
+      "brief_path": "reports/1688/best-selling-beauty-products-2026-10.md",
+      "report_url": "https://www.nexscope.ai/reports/1688/best-selling-beauty-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_1688-best-selling-beauty-products-2026-10",
       "platform_id": "1688",
+      "region": null,
+      "report_type": "best-selling-beauty-products",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "instagram-pet-influencers-2026-11-17",
+      "title": "Top Pet Influencers on Instagram",
+      "reporting_period": "November 17, 2026 snapshot",
+      "published_on": "2026-11-17",
+      "ranking_basis": "Follower count among verified pet candidates",
+      "brief_path": "reports/instagram/pet-influencers-2026-11-17.md",
+      "report_url": "https://www.nexscope.ai/reports/instagram/pet-influencers/2026-11-17?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_instagram-pet-influencers-2026-11-17",
+      "platform_id": "instagram",
+      "region": null,
+      "report_type": "pet-influencers",
+      "period_type": "snapshot",
+      "edition": "2026-11-17",
+      "language": "en",
+      "status": "published",
+      "report_family": "social"
+    },
+    {
+      "id": "etsy-best-selling-items-2026-11-16",
+      "title": "Best Selling Items on Etsy",
+      "reporting_period": "November 16, 2026 snapshot; latest available 7-day sales",
+      "published_on": "2026-11-16",
+      "ranking_basis": "Estimated weekly sales among active Bestseller-tagged listings",
+      "brief_path": "reports/etsy/best-selling-items-2026-11-16.md",
+      "report_url": "https://www.nexscope.ai/reports/etsy/best-selling-items/2026-11-16?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_etsy-best-selling-items-2026-11-16",
+      "platform_id": "etsy",
+      "region": null,
+      "report_type": "best-selling-items",
+      "period_type": "rolling_7_day_snapshot",
+      "edition": "2026-11-16",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "amazon-top-selling-items-2026-10",
+      "title": "Amazon Top Selling Items — United States",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-13",
+      "ranking_basis": "Estimated monthly units",
+      "brief_path": "reports/amazon/top-selling-items-2026-10.md",
+      "report_url": "https://www.nexscope.ai/reports/amazon/top-selling-items/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_amazon-top-selling-items-2026-10",
+      "platform_id": "amazon",
+      "region": "US",
+      "report_type": "top-selling-items",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "amazon-trending-products-us-2026-10",
+      "title": "Amazon Trending Products — United States",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-13",
+      "ranking_basis": "Source sales-growth field, retaining API order",
+      "brief_path": "reports/amazon/trending-products-us-2026-10.md",
+      "report_url": "https://www.nexscope.ai/reports/amazon/trending-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_amazon-trending-products-us-2026-10",
+      "platform_id": "amazon",
+      "region": "US",
+      "report_type": "trending-products",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "shopee-product-report-my-2026-11",
+      "title": "Shopee Malaysia Best Sellers & New Products",
+      "reporting_period": "30-day estimates; November 9, 2026 snapshot",
+      "published_on": "2026-11-13",
+      "ranking_basis": "Estimated previous-30-day sales within each eligible sample",
+      "brief_path": "reports/shopee/product-report-my-2026-11.md",
+      "report_url": "https://www.nexscope.ai/reports/shopee/product-report/my/2026-11?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_shopee-product-report-my-2026-11",
+      "platform_id": "shopee",
+      "region": "MY",
+      "report_type": "product-report",
+      "period_type": "rolling_30_day_snapshot",
+      "edition": "2026-11-09",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "ozon-best-selling-products-2026-10",
+      "title": "Ozon Best-Selling Products",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-11",
+      "ranking_basis": "Reported unit sales",
+      "brief_path": "reports/ozon/best-selling-products-2026-10.md",
+      "report_url": "https://www.nexscope.ai/reports/ozon/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_ozon-best-selling-products-2026-10",
+      "platform_id": "ozon",
       "region": null,
       "report_type": "best-selling-products",
       "period_type": "monthly",
       "edition": "2026-10",
       "language": "en",
-      "status": "published"
+      "status": "published",
+      "report_family": "marketplace"
     },
     {
       "id": "tiktok-best-selling-us-2026-10",
@@ -32,7 +186,8 @@
       "period_type": "monthly",
       "edition": "2026-10",
       "language": "en",
-      "status": "published"
+      "status": "published",
+      "report_family": "marketplace"
     },
     {
       "id": "tiktok-trending-us-2026-10",
@@ -48,7 +203,8 @@
       "period_type": "monthly",
       "edition": "2026-10",
       "language": "en",
-      "status": "published"
+      "status": "published",
+      "report_family": "marketplace"
     },
     {
       "id": "tiktok-creators-us-2026-11-04",
@@ -64,7 +220,25 @@
       "period_type": "rolling_30_day_snapshot",
       "edition": "2026-11-04",
       "language": "en",
-      "status": "published"
+      "status": "published",
+      "report_family": "marketplace"
+    },
+    {
+      "id": "1688-best-selling-2026-10",
+      "title": "1688 Best-Selling Products",
+      "reporting_period": "October 2026",
+      "published_on": "2026-11-02",
+      "ranking_basis": "Reported orders",
+      "brief_path": "reports/1688/2026-10-best-selling-products.md",
+      "report_url": "https://www.nexscope.ai/reports/1688/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=catalog_1688-best-selling-2026-10",
+      "platform_id": "1688",
+      "region": null,
+      "report_type": "best-selling-products",
+      "period_type": "monthly",
+      "edition": "2026-10",
+      "language": "en",
+      "status": "published",
+      "report_family": "marketplace"
     }
   ],
   "platforms": [
@@ -76,24 +250,39 @@
     },
     {
       "id": "tiktok",
-      "name": "TikTok Shop",
+      "name": "TikTok Shop & TikTok",
       "status": "available",
       "index_path": "reports/tiktok/README.md"
     },
     {
       "id": "amazon",
       "name": "Amazon",
-      "status": "coming_soon"
+      "status": "available",
+      "index_path": "reports/amazon/README.md"
     },
     {
       "id": "shopee",
       "name": "Shopee",
-      "status": "coming_soon"
+      "status": "available",
+      "index_path": "reports/shopee/README.md"
     },
     {
       "id": "ozon",
       "name": "Ozon",
-      "status": "coming_soon"
+      "status": "available",
+      "index_path": "reports/ozon/README.md"
+    },
+    {
+      "id": "etsy",
+      "name": "Etsy",
+      "status": "available",
+      "index_path": "reports/etsy/README.md"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "status": "available",
+      "index_path": "reports/instagram/README.md"
     },
     {
       "id": "temu",
@@ -108,11 +297,6 @@
     {
       "id": "shopify",
       "name": "Shopify",
-      "status": "coming_soon"
-    },
-    {
-      "id": "etsy",
-      "name": "Etsy",
       "status": "coming_soon"
     },
     {

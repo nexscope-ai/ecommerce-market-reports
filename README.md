@@ -4,26 +4,35 @@
 
 A growing library of ecommerce market research from Nexscope, organized by platform, research topic, region, and reporting period. Explore product rankings, sourcing insights, pricing patterns, and creator performance.
 
-Reports for **1688 and TikTok Shop** are available now. More platform collections will be added as reports are published. Each brief connects key findings with the complete report and its supporting data.
+**14 published reports** cover 1688, TikTok Shop, Amazon, Shopee, Ozon, Etsy, Instagram and TikTok creator research. Checked November 25, 2026. Each brief connects findings with the full report and its methodology.
 
 [Browse all reports](https://www.nexscope.ai/reports?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_browse) · [How to read the data](METHODOLOGY.md) · [Report catalog](catalog.json)
 
 ## Browse by platform
 
+### Marketplace reports
+
 | Platform | Reports |
 | --- | --- |
-| 1688 | [View 1688 reports](https://www.nexscope.ai/reports/1688?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_1688) |
-| TikTok Shop | [View TikTok Shop reports](https://www.nexscope.ai/reports/tiktok?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_tiktok) |
-| Amazon | Coming soon |
-| Shopee | Coming soon |
-| Ozon | Coming soon |
+| 1688 | [View reports](https://www.nexscope.ai/reports/1688?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_1688) |
+| TikTok Shop | [View reports](https://www.nexscope.ai/reports/tiktok?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_tiktok&tab=shop) |
+| Amazon | [View reports](https://www.nexscope.ai/reports/amazon?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_amazon) |
+| Shopee | [View reports](https://www.nexscope.ai/reports/shopee?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_shopee) |
+| Ozon | [View reports](https://www.nexscope.ai/reports/ozon?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_ozon) |
+| Etsy | [View reports](https://www.nexscope.ai/reports/etsy?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_platform_etsy) |
 | Temu | Coming soon |
 | Walmart | Coming soon |
 | Shopify | Coming soon |
-| Etsy | Coming soon |
 | eBay | Coming soon |
 | WooCommerce | Coming soon |
 | Mercado Libre | Coming soon |
+
+### Social & influencer reports
+
+| Platform | Reports |
+| --- | --- |
+| Instagram | [View creator reports](https://www.nexscope.ai/reports/instagram?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_social_instagram) |
+| TikTok | [View creator reports](https://www.nexscope.ai/reports/tiktok?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_social_tiktok&tab=influencers) |
 
 ## What these reports help you do
 
@@ -32,25 +41,74 @@ Reports for **1688 and TikTok Shop** are available now. More platform collection
 | Find products worth researching | Use rankings and category patterns to build a focused product shortlist. |
 | Compare sourcing options | Review wholesale prices, minimum orders, and supplier context before checking current quotes. |
 | Understand sales and momentum | Compare best-selling products with trend signals to decide what deserves a closer look. |
-| Plan creator research | Compare reported sales performance and video/live mix, then assess audience and product fit. |
+| Plan creator research | Compare TikTok Shop sales performance or social follower counts and sampled engagement, then assess audience and product fit. |
 | Build your own analysis | Download report CSVs, explore the source APIs, and investigate questions specific to your business. |
 
 Start with a report to narrow your research, then validate your shortlist with current data and your own costs.
 
-## Latest reports
+## All reports
 
-| Report | Market / scope | Period |
-| --- | --- | --- |
-| [1688 Best-Selling Products](https://www.nexscope.ai/reports/1688/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_1688-best-selling-2026-10) | 1688 sourcing | October 2026 |
-| [TikTok Shop Best-Selling Products](https://www.nexscope.ai/reports/tiktok/best-selling-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-best-selling-us-2026-10) | United States | October 2026 |
-| [TikTok Shop Trending Products](https://www.nexscope.ai/reports/tiktok/trending-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-trending-us-2026-10) | United States | October 2026 |
-| [TikTok Shop Top Selling Creators](https://www.nexscope.ai/reports/tiktok/top-selling-creators/us/2026-11-04?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-creators-us-2026-11-04) | United States | 30-day snapshot dated November 4, 2026 |
+Browse every published edition by platform. Each group is ordered by publication date, newest first.
 
-These four editions were published on November 4, 2026. Product reports cover October; the creator report uses the source's rolling 30-day window.
+### Marketplace reports
 
-[Browse the full report archive](reports/README.md). New editions will appear here, while platform collections retain earlier reports.
+#### 1688
 
-## A few findings to explore
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [1688 Best-Selling Beauty Products](https://www.nexscope.ai/reports/1688/best-selling-beauty-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_1688-best-selling-beauty-products-2026-10) | 1688 sourcing | October 2026 | 2026-11-17 |
+| [1688 Best-Selling Products](https://www.nexscope.ai/reports/1688/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_1688-best-selling-2026-10) | 1688 sourcing | October 2026 | 2026-11-02 |
+
+#### TikTok Shop
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [TikTok Shop Best-Selling Products](https://www.nexscope.ai/reports/tiktok/best-selling-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-best-selling-us-2026-10) | United States | October 2026 | 2026-11-04 |
+| [TikTok Shop Trending Products](https://www.nexscope.ai/reports/tiktok/trending-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-trending-us-2026-10) | United States | October 2026 | 2026-11-04 |
+| [TikTok Shop Top Selling Creators](https://www.nexscope.ai/reports/tiktok/top-selling-creators/us/2026-11-04?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-creators-us-2026-11-04) | United States | 30-day snapshot dated November 4, 2026 | 2026-11-04 |
+
+#### Amazon
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [Amazon Top Selling Items — Germany](https://www.nexscope.ai/reports/amazon/top-selling-items/de/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_amazon-top-selling-items-de-2026-10) | Germany | October 2026 | 2026-11-24 |
+| [Amazon Top Selling Items — United States](https://www.nexscope.ai/reports/amazon/top-selling-items/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_amazon-top-selling-items-2026-10) | United States | October 2026 | 2026-11-13 |
+| [Amazon Trending Products — United States](https://www.nexscope.ai/reports/amazon/trending-products/us/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_amazon-trending-products-us-2026-10) | United States | October 2026 | 2026-11-13 |
+
+#### Shopee
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [Shopee Malaysia Best Sellers & New Products](https://www.nexscope.ai/reports/shopee/product-report/my/2026-11?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_shopee-product-report-my-2026-11) | Malaysia | 30-day estimates; November 9, 2026 snapshot | 2026-11-13 |
+
+#### Ozon
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [Ozon Best-Selling Products](https://www.nexscope.ai/reports/ozon/best-selling-products/2026-10?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_ozon-best-selling-products-2026-10) | Ozon marketplace | October 2026 | 2026-11-11 |
+
+#### Etsy
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [Best Selling Items on Etsy](https://www.nexscope.ai/reports/etsy/best-selling-items/2026-11-16?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_etsy-best-selling-items-2026-11-16) | No country filter | November 16, 2026 snapshot; latest available 7-day sales | 2026-11-16 |
+
+### Social & influencer reports
+
+#### Instagram
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [Top 100 Instagram Influencers](https://www.nexscope.ai/reports/instagram/influencers/2026-11-18?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_instagram-influencers-2026-11-18) | Global | November 18, 2026 snapshot | 2026-11-18 |
+| [Top Pet Influencers on Instagram](https://www.nexscope.ai/reports/instagram/pet-influencers/2026-11-17?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_instagram-pet-influencers-2026-11-17) | Pet creators | November 17, 2026 snapshot | 2026-11-17 |
+
+#### TikTok
+
+| Report | Market / scope | Reporting period | Published |
+| --- | --- | --- | --- |
+| [Top 100 TikTok Influencers](https://www.nexscope.ai/reports/tiktok/influencers/2026-11-18?co-from=github-report&utm_source=github&utm_medium=referral&utm_campaign=ecommerce_market_reports&utm_content=readme_tiktok-influencers-2026-11-18) | Global | November 18, 2026 snapshot | 2026-11-18 |
+
+## Findings from the first editions
 
 - **1688:** Personal Care & Household represents 41 of 100 listings; 35 listings fall in the CNY 2–4.99 wholesale price band. [Read the brief](reports/1688/2026-10-best-selling-products.md).
 - **TikTok Shop sales:** Beauty & Personal Care represents 46 of 100 products. [Read the brief](reports/tiktok/2026-10-us-best-selling-products.md).
@@ -63,7 +121,7 @@ These are findings within individual saved rankings, not estimates of marketplac
 
 1. Choose the marketplace, question, and reporting period.
 2. Read the brief for findings and interpretation limits.
-3. Open the full report and use **Download CSV** to examine the underlying ranking.
+3. Open the full report and use its CSV action to examine the ranking; sign-in may be required for full access.
 4. Filter for your category and compare prices or sales measures within the same period.
 5. Verify current product details, economics, and availability before making a decision.
 
@@ -71,7 +129,7 @@ No installation or API key is needed to read these Markdown briefs. CSV files ar
 
 ## How the reports are made
 
-These reports are built from saved results returned by **Nexscope's ecommerce data APIs**. Each published edition identifies its source, ranking rule, and reporting window.
+These reports are built from saved results returned by **Nexscope's ecommerce and social data APIs**. Each published edition identifies its source, ranking rule, and reporting window.
 
 **Nexscope Data APIs → saved data snapshot → rankings and analysis → dated report and CSV**
 
@@ -80,7 +138,7 @@ These reports are built from saved results returned by **Nexscope's ecommerce da
 3. **Analyze the results.** Organize the returned records into rankings and relevant category, price, or sales-channel breakdowns.
 4. **Publish the findings.** Present the ranking, charts, methodology, and downloadable CSV in a dated report.
 
-### APIs behind the current reports
+### Selected source APIs
 
 | Report | Data source |
 | --- | --- |
@@ -125,4 +183,4 @@ Nexscope helps ecommerce sellers, analysts, and developers turn marketplace data
 
 ## Use and attribution
 
-When citing a finding, identify Nexscope, the report title, reporting period, and full-report URL. Public availability does not by itself grant a license to redistribute source datasets or third-party assets. No open-source or open-data license is granted by this draft.
+When citing a finding, identify Nexscope, the report title, reporting period, and full-report URL. Public availability does not by itself grant a license to redistribute source datasets or third-party assets. This repository does not grant an open-source or open-data license.
